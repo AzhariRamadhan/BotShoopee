@@ -26,9 +26,9 @@ bicara4 = mesin.say(bacabaris4)
 bicara = mesin.runAndWait()
 print(bicara,bicara1,bicara2,bicara3,bicara4)
 
-namaaplikasi = "Botacs Pro\n"
+namaaplikasi = "BotShoope\n"
 versiaplikasi = "2.0"
-devby = "Ananda Rauf Maududi"
+devby = "Azhari Ramadhan"
 devdate = "12 November 2020\n"
 updatedate = "14 November 2020\n"
 print(namaaplikasi)
