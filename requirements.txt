@@ -3,3 +3,5 @@ pyttsx3
 beautifulsoup4
 countdown-timer
 pyautogui
+pynput
+threading
