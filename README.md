@@ -11,13 +11,12 @@ Bahan untuk di Pc :
 
     Net framework 4.8 : https://dotnet.microsoft.com/download/dotnet-framework/net48
     Install python versi 3.7, versi terbaru lebih baik : https://www.python.org/downloads
-    Install semua pip yang ada di readme.md
-    Tambahan : pip install pynput dan pyautogui.
+    Install semua pip yang ada di requirements.txt
     Google Chrome versi terbaru 2020 (86.0.4240.198) karena web driver chrome saya versi terbaru : https://www.google.com/chrome/?brand=YTUH&gclid=Cj0KCQiAnb79BRDgARIsAOVbhRp0LvXN5YffCPcNTtcorz6j-5Y-z-Kfh7Yx1knyGgl_mgG-sVPSKtoaAs81EALw_wcB&gclsrc=aw.ds.
 
 Cara pakai :
 
-    Extract file BotShoopee.rar di Localdisk C.
+    Extract file BotShoopee.zip di Localdisk C.
     Setting waktu di script BotacsPro.py : menit= detik=5 > ubah waktu sesuai countdown shopee, kalau perlu kurang 1 - 3 detik lebih cepat.
     Setting akun shopee, tidak boleh ada verifikasi sms, supaya bot eksekusi langsung masuk dan tinggal bayar saja.
     Setting akun di akun.txt
