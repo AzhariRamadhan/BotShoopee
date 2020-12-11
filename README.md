@@ -17,7 +17,7 @@ Bahan untuk di Pc :
 
 Cara pakai :
 
-    Extract file BotacsPro2.rar di Localdisk C.
+    Extract file BotShoopee.rar di Localdisk C.
     Setting waktu di script BotacsPro.py : menit= detik=5 > ubah waktu sesuai countdown shopee, kalau perlu kurang 1 - 3 detik lebih cepat.
     Setting akun shopee, tidak boleh ada verifikasi sms, supaya bot eksekusi langsung masuk dan tinggal bayar saja.
     Setting akun di akun.txt
@@ -29,7 +29,7 @@ Cara pakai :
 
 Untuk di handphone :
 
-    Download BotacsPro2 dan extract ke SD card atau ke internal memori.
+    Download BotShoopee dan extract ke SD card atau ke internal memori.
     Install Python versi 3.7 di termux.
     Download termux di Google Playstore.
     Buka aplikasi termux.
